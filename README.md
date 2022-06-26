@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-Ogechi
+- 👋 Hi, I’m Ogechi
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning cloud engineering
 - 💞️ I’m looking to collaborate on GCP projects
