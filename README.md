@@ -52,7 +52,7 @@
 </a>-->
 
 ## CONTACT ME
-  - <a href= "https://ogechiosiemo@gmail.com" target="_blank">Send me an email 📫</a>
+  - <a href= "https://mailto:ogechiosiemo@gmail.com" target="_blank">Send me an email 📫</a>
   - <a href= "https://www.linkedin.com/in/isaac-ogechi-4ba7a6160" target="_blank">LinkedIn</a>
   - <a href= "https://twitter.com/_ogechi_" target="_blank">Connect with me at Twitter</a>
 <!---
