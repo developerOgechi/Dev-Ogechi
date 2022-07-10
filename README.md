@@ -1,8 +1,27 @@
-#### An Aspiring DevOps Engineer 😎
+<p align="left">Hello there ! 👋 I am Ogechi. An Aspiring DevOps Engineer 😎</p>
+<p align="left">🔭 I am open to collaborate & learn in open-source projects.</p>
+<p align="left">🌱 I’m currently learning GCP and Back-end development with Python
 
-###### **Tools & Languages**
+## TOOLS & LANGUAGES
+
 - Cloud engineering
-- Full Stack
+<!--Google Cloud Icon-->
+<a href="https://www.cloud.google.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" width="40"> 
+</a>
+
+<!--Kubernetes Icon-->
+<a href="https://www.kubernetes.io" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" width="40"> 
+</a>
+
+<!--Docker Icon-->
+<a href="https://www.docker.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" height="40" width="40"> 
+</a>
+
+  
+ - Full Stack
 <!--Python Icon-->
 <a href="https://www.python.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" height="40" width="40"> 
@@ -27,11 +46,13 @@
 <a href= "https://www.mysql.com" target="_blank"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"> 
 </a>
-
-<!--Github Icon-->
+</p>
+<!--Github Icon
 <a href= "https://www.github.com" target="_blank"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" height="40" width="40"> 
-</a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" height="40" width="40">
+</a>-->
+
+
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
