@@ -1,8 +1,6 @@
-### Hello there 👋
+##### An aspiring DevOps Engineer 😎
 
-### I am Ogechi 😎 Nice to meet you
-
-### MY INTERESTS
+##### MY INTERESTS
 - Full Stack 
 - Cloud Engineering 
 
