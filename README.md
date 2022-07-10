@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Ogechi
-- 👀 Fullstack
-- 🌱 Future DevOps Engineer
-
 ### Hello there 👋
 
-#### I am Ogechi 😎 Nice to meet you
+### I am Ogechi 😎 Nice to meet you
 
 #### MY INTERESTS
 - Full Stack
