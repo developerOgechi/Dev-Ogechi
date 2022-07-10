@@ -52,9 +52,14 @@
 </a>-->
 
 ## CONTACT ME
-  - <a href= "https://mailto:ogechiosiemo@gmail.com" target="_blank">Send me an email 📫</a>
-  - <a href= "https://www.linkedin.com/in/isaac-ogechi-4ba7a6160" target="_blank">LinkedIn</a>
-  - <a href= "https://twitter.com/_ogechi_" target="_blank">Connect with me at Twitter</a>
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogechiosiemo@gmail.com)
+  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/isaac-ogechi-4ba7a6160)
+  - [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_ogechi_)
+  
+  
+  
+<h3 align="center">LET'S DEVELOP !</h3>
+<img src="https://" width="40" height="40" />
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
