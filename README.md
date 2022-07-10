@@ -6,7 +6,7 @@
 
 - Cloud engineering
 <!--Google Cloud Icon-->
-<a href="https://www.cloud.google.com" target="_blank">
+<a href="https://cloud.google.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" width="40"> 
 </a>
 
