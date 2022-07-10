@@ -1,10 +1,11 @@
-#### An aspiring DevOps Engineer 😎
+#### An Aspiring DevOps Engineer 😎
 
-###### MY INTERESTS
+###### **My Interests**
 - Full Stack 
 - Cloud Engineering 
 
-
+###### **Languages and tools**
+- 
 
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
