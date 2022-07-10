@@ -60,7 +60,7 @@
   
 <h3 align="center">LET'S DEVELOP !</h3>
 <p align="center">
-<img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="300" height="300"/>
+<img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="350" height="300"/>
 </p>
 
 <!---
