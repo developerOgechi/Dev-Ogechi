@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ogechi
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning cloud engineering
-- 💞️ I’m looking to collaborate on GCP projects
+- 👀 Fullstack
+- 🌱 Future DevOps Engineer
 
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
