@@ -1,6 +1,6 @@
-##### An aspiring DevOps Engineer 😎
+#### An aspiring DevOps Engineer 😎
 
-##### MY INTERESTS
+###### MY INTERESTS
 - Full Stack 
 - Cloud Engineering 
 
