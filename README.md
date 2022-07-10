@@ -2,7 +2,9 @@
 - 👀 Fullstack
 - 🌱 Future DevOps Engineer
 
-### Heloo there 👋 {#custom-id}
+### Heloo there 👋
+
+I am Ogechi :shades: 
 
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
