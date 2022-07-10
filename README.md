@@ -59,7 +59,8 @@
   
   
 <h3 align="center">LET'S DEVELOP !</h3>
-<img src="https://" width="40" height="40" />
+<img src="https://<img src="/Dev-Ogechi/Dev-Ogechi/blob/main/DevsGif.gif?raw=true" alt="DevsGif.gif">" width="40" height="40" />
+
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
