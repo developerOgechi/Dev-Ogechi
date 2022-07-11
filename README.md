@@ -1,6 +1,6 @@
 <p align="left">Hello there ! 👋 I am Ogechi. A software developer 😎</p>
 <p>
-<img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="350" height="300"/>
+<img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="250" height="200"/>
 </p>
 <p align="left">🔭 I am open to learn & collaborate in open-source projects.</p>
 <p align="left">🌱 I’m currently learning GCP and Back-end development with Python
