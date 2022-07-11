@@ -1,4 +1,7 @@
-<p align="left">Hello there ! 👋 I am Ogechi. A software Engineer 😎</p>
+<p align="left">Hello there ! 👋 I am Ogechi. A software developer 😎</p>
+<p>
+<img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="350" height="300"/>
+</p>
 <p align="left">🔭 I am open to learn & collaborate in open-source projects.</p>
 <p align="left">🌱 I’m currently learning GCP and Back-end development with Python
 
@@ -59,13 +62,6 @@
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogechiosiemo@gmail.com)
   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/isaac-ogechi-4ba7a6160)
   - [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_ogechi_)
-  
-  
-  
-## LET'S DEVELOP !
-<p>
-<img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="350" height="300"/>
-</p>
 
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
