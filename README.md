@@ -1,4 +1,4 @@
-<p align="left">Hello there ! 👋 I am Ogechi. An Aspiring DevOps Engineer 😎</p>
+<p align="left">Hello there ! 👋 I am Ogechi. An software Engineer 😎</p>
 <p align="left">🔭 I am open to learn & collaborate in open-source projects.</p>
 <p align="left">🌱 I’m currently learning GCP and Back-end development with Python
 
