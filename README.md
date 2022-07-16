@@ -3,7 +3,7 @@
 <img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="250" height="200"/>
 </p>
 <p align="left">🔭 I am open to learn & collaborate in open-source projects.</p>
-<p align="left">🌱 I’m currently learning GCP and Back-end development with Python
+<p align="left">🌱 I’m currently learning cloud engineering with Google Cloud Platform and Back-end development with Python</p>
 
 ## TOOLS & LANGUAGES
 
