@@ -63,6 +63,8 @@
   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/isaac-ogechi-4ba7a6160)
   - [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_ogechi_)
 
+[![Dev-Ogechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Ogechi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
