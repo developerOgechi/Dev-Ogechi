@@ -2,10 +2,12 @@
 <p>
 <img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="250" height="200"/>
 </p>
-<p align="left">🔭 I am open to learn & collaborate in open-source projects.</p>
-<p align="left">🌱 I enjoy scripting with JS, Python, PHP. I also do UI/UX Design with HTML and CSS</p>
 
-## TOOLS & LANGUAGES
+- I enjoy scripting with JS, Python, PHP. I also do UI/UX Design with HTML and CSS
+- I am open to learn & collaborate in open-source projects
+- Check out my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/isaac-ogechi-4ba7a6160) profile
+
+<h1>Tools and Languages</h1>
 
 <!--Python Icon-->
 <a href="https://www.python.org" target="_blank">
@@ -42,10 +44,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" height="40" width="40">
 </a>-->
 
-## CONTACT ME
-  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogechiosiemo@gmail.com)
-  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/isaac-ogechi-4ba7a6160)
-  - [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_ogechi_)
+<!--Social Contact-->
+
 
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
