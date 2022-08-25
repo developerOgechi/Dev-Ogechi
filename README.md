@@ -3,35 +3,18 @@
 <img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="250" height="200"/>
 </p>
 <p align="left">🔭 I am open to learn & collaborate in open-source projects.</p>
-<p align="left">🌱 I’m currently learning code with JS,PYTHON,PHP and cloud engineering with GCP</p>
+<p align="left">🌱 I enjoy scripting with JS, Python, PHP. I also do UI/UX Design with HTML and CSS</p>
 
 ## TOOLS & LANGUAGES
 
-- Cloud engineering
-<!--Google Cloud Icon-->
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" width="40"> 
-</a>
-
-<!--Kubernetes Icon-->
-<a href="https://www.kubernetes.io" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" width="40"> 
-</a>
-
-<!--Docker Icon-->
-<a href="https://www.docker.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" height="40" width="40"> 
-</a>
-
-<!--Jenkins Icon-->
-<a href="https://www.jenkins.io" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" height="40" width="40"> 
-</a>
-  
- - Full Stack
 <!--Python Icon-->
 <a href="https://www.python.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" height="40" width="40"> 
+</a>
+
+<!--PhP Icon-->
+<a href="https://www.php.net/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" height="40" width="40">
 </a>
 
 <!--JavaScript Icon--> 
@@ -44,15 +27,16 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" height="40" width="40"> 
 </a>
 
-<!--Bootstrap Icon-->
-<a href="https://www.getbootstrap.com" target="_blank"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="40"> 
+<!--CSS Icon-->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" height="40" width="40">
 </a>
 
 <!--MySQL Icon-->
 <a href= "https://www.mysql.com" target="_blank"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"> 
 </a>
+
 <!--Github Icon
 <a href= "https://www.github.com" target="_blank"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" height="40" width="40">
