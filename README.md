@@ -33,7 +33,7 @@ A UI/UX developer
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ogechi)](https://github.com/Dev-Ogechi/github-readme-stats)
+
 
 <!---
 Dev-Ogechi/Dev-Ogechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
