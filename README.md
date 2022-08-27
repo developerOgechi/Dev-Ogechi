@@ -11,7 +11,7 @@ A UI/UX developer
 * ✉️  You can contact me at [ogechiosiemo@gmail.com](mailto:ogechiosiemo@gmail.com)
 * 🧠  I'm learning Scripting with JS, PhP and Python for coding and shell scripting for automation and pentesting
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a secret hide-out for coding.
+* ⚡  Fun fact: I have a secret hide-out for coding.
 
 ### Skills
 
