@@ -9,9 +9,8 @@ A UI/UX developer
 
 * 🌍  I'm based in Nairobi Kenya
 * ✉️  You can contact me at [ogechiosiemo@gmail.com](mailto:ogechiosiemo@gmail.com)
-* 🧠  I'm learning Scripting with JS, PhP and Python for coding and shell scripting for automation and pentesting
+* 🧠  I'm learning and understanding modern software development practices and writing readable, maintainable, performant code
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Fun fact: I have a secret hide-out for coding.
 
 Skills
 -----
