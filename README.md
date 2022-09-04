@@ -4,7 +4,7 @@ Hi 👋 My name is Isaac Ogechi
 <img src="https://github.com/Dev-Ogechi/Dev-Ogechi/blob/49d3c18feba31f2760be63162169674b91bef294/DevsGif.gif" width="250" height="200"/>
 </p>
 
-A UI/UX developer
+A software developer
 ----------------
 
 * 🌍  I'm based in Nairobi Kenya
