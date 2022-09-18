@@ -9,7 +9,7 @@ A software developer
 
 * 🌍  I'm based in Nairobi Kenya
 * ✉️  You can contact me at [ogechiosiemo@gmail.com](mailto:ogechiosiemo@gmail.com)
-* 🧠  I understand modern software development practices. I write readable, maintainable, performant code
+* 🧠  I understand modern web development practices. I write readable, maintainable, performant code
 * 🤝  I'm open to collaborating on interesting projects
 
 Skills
